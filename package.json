@@ -1,6 +1,6 @@
 {
   "name": "ecomtemplate",
-  "homepage": "https://Kaushikcoder2005.github.io/shopse/",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -8,9 +8,8 @@
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
-    "preview": "vite preview",
-    "predeploy": "pnpm run build",
-    "deploy": "gh-pages -d dist"
+    "preview": "vite preview"
+
 
   },
   "dependencies": {
